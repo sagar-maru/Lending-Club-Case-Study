@@ -62,10 +62,6 @@ When a loan application is considered, there are two main outcomes:
 
 This case study will use these technologies to perform detailed analysis and visualization to guide loan approval decisions effectively.
 
-## Contributors:
-- **Sagar Maru**
-- **Sachin Mahale**
-
 # Lending Club Case Study - Key Summary
 
 ## Low Risk Recommendations
